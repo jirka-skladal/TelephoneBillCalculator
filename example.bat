@@ -1,0 +1,1 @@
+java -jar target/billing-1.0-SNAPSHOT.jar "420774567453 13-01-2020 18:09:15 13-01-2020 18:12:57"
